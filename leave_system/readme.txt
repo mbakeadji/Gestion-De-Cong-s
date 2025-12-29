@@ -1,7 +1,3 @@
-Free Download Source Code "Online Leave Management System"
-
-FIRST Download
-
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -29,5 +25,5 @@ user: admin
 pass: admin123	
 
 
-****** https:1sourcecodr.blogspot.com ******
+****** https:allbymyself.com ******
 Subcribe my You tube Channel **** 1 Source code ****
